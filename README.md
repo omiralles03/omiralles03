@@ -1,10 +1,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,py,html,js,css" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=arch,windows" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=vscode,neovim,unreal,git,github" />
+    <img src="https://skillicons.dev/icons?i=c,java,py,html,js,css,arch,windows,vscode,neovim,unreal,git,github" />
   </a>
 </p>
 
